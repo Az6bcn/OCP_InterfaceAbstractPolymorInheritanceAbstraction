@@ -1,0 +1,5 @@
+/Users/Olusegun/Projects/SOLID_OCP/SOLID_OCP/bin/Debug/SOLID_OCP.exe
+/Users/Olusegun/Projects/SOLID_OCP/SOLID_OCP/bin/Debug/SOLID_OCP.pdb
+/Users/Olusegun/Projects/SOLID_OCP/SOLID_OCP/obj/x86/Debug/SOLID_OCP.csproj.CoreCompileInputs.cache
+/Users/Olusegun/Projects/SOLID_OCP/SOLID_OCP/obj/x86/Debug/SOLID_OCP.exe
+/Users/Olusegun/Projects/SOLID_OCP/SOLID_OCP/obj/x86/Debug/SOLID_OCP.pdb
